@@ -1,0 +1,2 @@
+# Sequelize
+my sequelize repo
